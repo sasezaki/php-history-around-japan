@@ -5,6 +5,11 @@ A History Of PHP Frameworks/Library Collections around Japan
 https://github.com/pmjones/php-history
 
 
+* Need
+  - Pinoco
+  - simplate
+  - CMSs & Others (Xoops, OpenPNE?)
+
 === 2004
 * Maple 3
   - http://kunit.jp/maple/update.html
@@ -14,3 +19,14 @@ https://github.com/pmjones/php-history
 === 2005
 * s2container
   - https://www.seasar.org/svn/s2container.php5/tags/1.2.0/ChangeLog
+
+* rhaco 1
+  - https://github.com/tokushima/rhaco1
+
+=== 2006
+* Piece_Flow 1.0 (Piece Framework)
+  - https://web.archive.org/web/20080103184003/http://trac.piece-framework.com/piece-flow/log/releases/release-1.0.0
+
+=== 2007
+* Moony (revision1)
+  - https://code.google.com/p/moony/source/list?num=25&start=14
