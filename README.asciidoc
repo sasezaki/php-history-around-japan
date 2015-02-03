@@ -6,6 +6,7 @@ https://github.com/pmjones/php-history
 
 
 * Need
+  - BEAR.Saturday, BEAR.Sunday (opensourced date)
   - Pinoco
   - simplate
   - CMSs & Others (Xoops, OpenPNE?)
