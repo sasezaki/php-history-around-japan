@@ -16,6 +16,8 @@ https://github.com/pmjones/php-history
   - http://kunit.jp/maple/update.html
 * Ethna 0.1.0
   - http://ethna.jp/old/ethna-news.html#pbb5da0b
+* guesswork 0.0.1
+  - https://web.archive.org/web/20041206220900/http://www.guesswork.jp/
 
 === 2005
 * s2container
@@ -27,7 +29,30 @@ https://github.com/pmjones/php-history
 === 2006
 * Piece_Flow 1.0 (Piece Framework)
   - https://web.archive.org/web/20080103184003/http://trac.piece-framework.com/piece-flow/log/releases/release-1.0.0
+* Mars (only document, a.k.a.みったんフレームワーク)
+  - https://web.archive.org/web/20061103194140/http://longinus.org/src/mars/manual/index.html
 
 === 2007
 * Moony (revision1)
   - https://code.google.com/p/moony/source/list?num=25&start=14
+
+* ちいたん ~0.7
+  - http://sourceforge.jp/projects/cheetan/releases/
+
+=== 2008
+* Sabel 1.0.4
+  - https://web.archive.org/web/20090429030317/http://www.sabel.jp/downloads#10stable
+
+=== 2010
+* Blanka
+  - http://blog.anatoo.jp/entry/20100116/1263620509
+
+=== 2012
+* dietcake
+  - https://github.com/dietcake/dietcake/commit/ebf0714c4df5ce3db12cb0a95949a4f0069d3707
+* Cockatoo
+  - https://github.com/cockatoo-org/Cockatoo/releases
+
+=== 2013
+* Ethnam
+  - http://dqn.sakusakutto.jp/2013/06/ethnam27.html
