@@ -6,7 +6,6 @@ https://github.com/pmjones/php-history
 
 
 * Need
-  - BEAR.Saturday, BEAR.Sunday (opensourced date)
   - Pinoco
   - simplate
   - CMSs & Others (Xoops, OpenPNE?)
@@ -42,6 +41,7 @@ https://github.com/pmjones/php-history
 === 2008
 * Sabel 1.0.4
   - https://web.archive.org/web/20090429030317/http://www.sabel.jp/downloads#10stable
+* BEAR.Saturday
 
 === 2010
 * Blanka
@@ -52,7 +52,14 @@ https://github.com/pmjones/php-history
   - https://github.com/dietcake/dietcake/commit/ebf0714c4df5ce3db12cb0a95949a4f0069d3707
 * Cockatoo
   - https://github.com/cockatoo-org/Cockatoo/releases
+* BEAR.Sunday 0
+  - https://github.com/bearsunday/BEAR.Sunday/commit/43e13772260b99124e4185ee5cb58f924b1bdf0e
 
 === 2013
 * Ethnam
   - http://dqn.sakusakutto.jp/2013/06/ethnam27.html
+
+=== 2015
+* BEAR.Sunday 1
+  - http://koriym.github.io/blog/2015/05/31/first-bear-sunday-stable-release/
+
